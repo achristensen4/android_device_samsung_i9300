@@ -2,7 +2,7 @@
 # system.prop for smdk4x12
 #
 
-dalvik.vm.dexopt-data-only=1
+dalvik.vm.dexopt-data-only=0
 rild.libpath=/system/lib/ril-wrapper.so
 rild.libargs=-d /dev/ttyS0
 ro.ril.telephony.mqanelements=5
